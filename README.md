@@ -13,7 +13,8 @@ The notebook uses R to perform the code. <br>
 Please fork the repository for your own use and to follow along.</p>
 
 <h2>Instructions</h2>
-To read more on this case study, please read more at https://ccloutier312.github.io/  
+To read more on this case study, please see the accompanying project at https://ccloutier312.github.io/ 
+If you would like to use the code yourself, please download the repository and follow the instructions in the .ipynb file
 
 <h2>Uses</h2>
 This project is intended for scholars new to text analysis to understand the capabilities of word vector analysis and follow along with a step-by-step example. This project is also intended to act as a case study for scholars interested in the digital humanities. 
